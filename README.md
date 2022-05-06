@@ -7,6 +7,11 @@
     php artisan jetstream:install livewire --teams
     npm install && npm run dev
 
+>Vorrei provare Jestrap
+
+In questo video mostra come "rubare" components di Jestream per riutilizzarli
+- https://www.youtube.com/watch?v=xX1qmJwGqg4&list=PLSP81gW0XjNHk2D2NREM8A80xWO19Yulj&index=2&t=3s
+
 CREO IL DB E LO SCRIVO IN .env
 
     php artisan migrate
