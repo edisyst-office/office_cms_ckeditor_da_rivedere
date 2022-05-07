@@ -8,6 +8,7 @@
     npm install && npm run dev
 
 >Vorrei provare Jestrap
+>Mi sa che devo usare PHP 7.4 al massimo
 
 In questo video mostra come "rubare" components di Jestream per riutilizzarli
 - https://www.youtube.com/watch?v=xX1qmJwGqg4&list=PLSP81gW0XjNHk2D2NREM8A80xWO19Yulj&index=2&t=3s
